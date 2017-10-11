@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">W2F</string>
+
+    <string name="name">Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="institution_name">Institution Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="mock_test">Mock Test</string>
+    <string name="take_test">Take Test</string>
+
+    <string name="login_page_name">LOGIN</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="signup_link">Don\'t have an account? Signup</string>
+
+    <string name="signup_page_name">SIGN UP</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="department">Department</string>
+    <string name="signup_btn">SIGN UP</string>
+
+    <string name="exam_name">Exam Name</string>
+    <string name="timer">00:00</string>
+    <string name="submit_btn">SUBMIT</string>
+    <string name="question">What are the components of android architecture?</string>
+    <string name="answer1">Linux Kernel\nLibraries\nAndroid Framework\nAndroid Applications</string>
+    <string name="answer2">Unix Kernel\nLibraries\nProcessor Framework\nAndroid Applications</string>
+    <string name="answer3">Linux Kernel\nInflation\nUI Framework\nAndroid Applications</string>
+    <string name="answer4">Java\nLibraries\nAndroid Framework\nAndroid Applications</string>
+</resources>

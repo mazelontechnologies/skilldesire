@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0196d4</color>
+    <color name="colorPrimaryDark">#005c83</color>
+    <color name="colorAccent">#3e8fb1</color>
+
+    <color name="status_bar">#00709e</color>
+    <color name="login_bg">#0087bf</color>
+    <color name="question_bg">#fb9006</color>
+    <color name="submit_btn_bg">#229957</color>
+</resources>
